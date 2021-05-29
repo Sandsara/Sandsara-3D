@@ -1,1 +1,1 @@
-This file contains the Core of Sandsara mechanism. 
+This folder contains the Core of Sandsara mechanism. 
